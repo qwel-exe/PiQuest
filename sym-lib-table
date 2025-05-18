@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "RASPBERRYPI-ZERO")(type "KiCad")(uri "C:/Users/aniru/Downloads/RASPBERRYPI-ZERO/RASPBERRYPI-ZERO.kicad_sym")(options "")(descr ""))
   (lib (name "FS8205A")(type "KiCad")(uri "C:/Users/aniru/Documents/KiCad/easyeda2kicad/easyeda2kicad.kicad_sym")(options "")(descr ""))
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "C:/Users/aniru/Documents/KiCad/easyeda2kicad/easyeda2kicad.kicad_sym")(options "")(descr ""))
 )
